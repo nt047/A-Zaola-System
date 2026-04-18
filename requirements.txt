@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+gtts
+pypdf2
+langchain
+duckduckgo-search
